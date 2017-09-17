@@ -1,0 +1,13 @@
+{
+  "name": "my-framer-prototype",
+  "description": "Share my awesome Framer prototype.",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.11.0",
+    "express-http-auth": "^0.1.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {}
+}
